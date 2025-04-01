@@ -21,7 +21,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 # Azure Network Security Groups & Protocol Inspection
 
 ## Overview
-This project demonstrates the setup of Azure Network Security Groups (NSGs) to control inbound/outbound traffic and inspect **network protocols using packet capture and monitoring tools.
+This project demonstrates the setup of Azure Network Security Groups (NSGs) to control inbound/outbound traffic and inspect network protocols using packet capture and monitoring tools.
 
 - NSG Implementation
 - Custom Security Rules
